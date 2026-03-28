@@ -1,14 +1,8 @@
 <div align="center">
 
-```
-███╗   ███╗███████╗ ██████╗ ██╗    ██╗
-████╗ ████║██╔════╝██╔═══██╗██║    ██║
-██╔████╔██║█████╗  ██║   ██║██║ █╗ ██║
-██║╚██╔╝██║██╔══╝  ██║   ██║██║███╗██║
-██║ ╚═╝ ██║███████╗╚██████╔╝╚███╔███╔╝
-╚═╝     ╚═╝╚══════╝ ╚═════╝  ╚══╝╚══╝
-     S T I M U L A T O R  🌿
-```
+<div align="center">
+  <img src="overstimulation_detector_logo.svg" alt="MeowStimulator Banner" width="680"/>
+</div>
 
 **Your body knows you're stressed before you do.**  
 MeowStimulator watches for the signs — and gently reminds you to take care of yourself.
