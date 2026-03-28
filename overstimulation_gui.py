@@ -1,22 +1,3 @@
-"""
-╔══════════════════════════════════════════════════════════════╗
-║   MEOW STIMULATOR  —  Overstimulation Detector               ║
-║   Autism-friendly GUI  ·  Embedded icon  ·  Telegram alerts  ║
-╚══════════════════════════════════════════════════════════════╝
-
-Requirements:
-    pip install opencv-python mediapipe numpy plyer Pillow requests
-
-Telegram setup:
-    1. Message @BotFather on Telegram → /newbot → copy your token
-    2. Send any message to your new bot first (so it knows your chat)
-    3. Visit: https://api.telegram.org/bot<YOUR_TOKEN>/getUpdates
-       Find "chat": {"id": 123456789} → that is your Chat ID
-    4. Paste both into the TELEGRAM ALERTS panel inside the app
-
-Run:
-    python overstimulation_gui.py
-"""
 
 import tkinter as tk
 from tkinter import ttk
