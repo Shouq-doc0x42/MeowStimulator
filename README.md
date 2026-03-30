@@ -82,7 +82,7 @@ Built with care for people who experience sensory sensitivity, anxiety, or rapid
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/yourusername/meowstimulator.git
+git clone https://github.com/Shouq-doc0x42/MeowStimulator.git
 cd meowstimulator
 ```
 
